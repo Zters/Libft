@@ -1,10 +1,10 @@
  #Libft
 	
 	
-			42 Istanbul projelerinden biri olan libft projesi bizlerin kendi kutuphanemizi yazmamizi istemsi 
+42 Istanbul projelerinden biri olan libft projesi bizlerin kendi kutuphanemizi yazmamizi istemsi 
 
 
-     Ornek olarak bir stringin uzunlugunu bulmak icin kullandigimiz strlen() bizden kendimizin yazmasini istemeleri 
+Ornek olarak bir stringin uzunlugunu bulmak icin kullandigimiz strlen() bizden kendimizin yazmasini istemeleri 
 
 
 	int ft_strlen(char *str)
